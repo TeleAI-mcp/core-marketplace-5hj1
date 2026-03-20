@@ -1,2 +1,3 @@
-# core-marketplace-5hj1
-Automated issue comment bot repository
+# Core Marketplace 5Hj1
+
+Automated issue comment bot repository.
